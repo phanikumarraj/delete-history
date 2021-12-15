@@ -1,0 +1,34 @@
+.time {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+
+.social-logo {
+  width: 15px;
+}
+
+.title {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+
+.title-url {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 8px;
+}
+
+.delete-image {
+  width: 10px;
+}
+
+.list-item {
+  display: flex;
+  flex-direction: row;
+}
+
+.image-container {
+  justify-content: space-between;
+}
